@@ -37,18 +37,18 @@ for i in range(1, 10):
 ---
 
 > Outcomes achieved
-- **Plus**
+**Plus**
 <img width="1415" height="837" alt="Screenshot from 2025-09-26 20-25-42" src="https://github.com/user-attachments/assets/a666cf8a-5a32-48e8-b4bc-a398fe492120" />
 
-- **Minus**
+**Minus**
 <img width="1415" height="837" alt="Screenshot from 2025-09-26 20-27-04" src="https://github.com/user-attachments/assets/4a9e44d4-4e77-4e45-ad38-67369212ba94" />
 
-- **Multiplication**
+**Multiplication**
 <img width="1415" height="837" alt="Screenshot from 2025-09-26 20-30-22" src="https://github.com/user-attachments/assets/a299bbbe-b699-4db7-b1f9-2b46ecfb2b5f" />
 
 > ⚠️**Note:** ```*``` is recognized as a wildcard, so you must use it in the command line with ```'*'```.
 
-- **Divide**
+**Divide**
 <img width="1415" height="837" alt="Screenshot from 2025-09-26 20-35-34" src="https://github.com/user-attachments/assets/dea9efb0-16d4-4f55-9c40-bff0195ef302" />
 
 ---
