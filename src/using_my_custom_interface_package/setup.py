@@ -30,7 +30,10 @@ setup(
         'step_count_service_server = using_my_custom_interface_package.step_count_service_server:main',
         'step_count_service_client = using_my_custom_interface_package.step_count_service_client:main',
         'action_server = using_my_custom_interface_package.action_server:main',
-        'action_client = using_my_custom_interface_package.action_client:main',       
+        'action_client = using_my_custom_interface_package.action_client:main', 
+        'calculator_server = using_my_custom_interface_package.calculator_server:main',
+        'calculator_client = using_my_custom_interface_package.calculator_client:main',
+               
         ],
     },
 )

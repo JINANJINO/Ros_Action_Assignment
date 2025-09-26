@@ -1,0 +1,10 @@
+# Goal
+int8 num_a
+int8 num_b
+string op
+---
+# Result
+float32 answer
+---
+# Feedback
+int8 loading_count
